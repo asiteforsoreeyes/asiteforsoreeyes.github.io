@@ -1,9 +1,14 @@
 :root 
 {
-    --background-color:#0d0009;
+    --black:#0d0009;
+    --purple:#2e294e;
+    --beige:#8c6a4f;
+    --green:#404f3e;
+    --grey:#353535;
 }
 
 body 
 {
-    background-color: var(--background-color);
+    background-color: var(--black);
+    color: var(--grey);
 }
